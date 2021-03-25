@@ -1,0 +1,47 @@
+img {
+    min-width: 100%;
+    min-height: 100%;
+}
+.navbar{
+    background-color: rgb(212, 93, 93,0.5);
+    position:absolute;
+    top: 2%;
+    width: 2px
+    margin-top: 2 em;
+    min-width: 100%;
+}
+ul li{
+    display: inline-block;
+    
+    margin:0;
+    list-style-type:none;
+    padding : 0 0.5em;
+    }
+  ul li.gauche{
+ 
+    float:left; 
+   
+    }
+  ul li.droite{
+
+        float:right; 
+    
+    }
+    ul li a:hover {
+    color: khaki;
+        } 
+        h1{
+            font-family:cursive;
+            font-style: italic;
+            font-weight:bolder;
+            text-align: center;
+        }
+        
+   .Enregistrer{
+       position: center;
+       margin-top: 20px;
+   }
+       
+ 
+      
+       

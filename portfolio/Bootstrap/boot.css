@@ -1,0 +1,79 @@
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+#nom{
+    font-weight: bold;
+}
+img{
+    height: 500px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+  
+    color: blue;
+    font-style: italic;
+    text-align: center;
+   
+   
+    
+}
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+.margin{
+    margin:20px;   
+}
+.mformulaire{
+    margin:50px;
+}
+.pp{
+    height: 25%;
+    width: 100%;
+}
+.footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: rgb(156, 156, 226);
+    color: black;
+    text-align: center;
+    
+}
+.topnav{
+    height: 60px;
+    background-color: rgb(245, 252, 255);
+}
+#logo{
+    float:left;
+    position:relative;
+    margin: -20px;
+    padding: 1px;
+    height: 100px;
+    width: 100px;
+
+}
+h1{
+    color: mediumblue;
+    text-align: center;
+    font-family:cursive;
+    font-style: italic;
+    font-size:xx-large;
+}
+.col{ 
+    height: 5px;
+    width: 5px;
+}
+.card-body{
+    background-color: rgb(175, 184, 238);
+
+  
+}
+
+

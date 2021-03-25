@@ -1,0 +1,100 @@
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+#nom{
+    font-weight: bold;
+}
+img{
+    height: 500px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+  
+    color: blue;
+    font-style: italic;
+    text-align: center;
+   
+   
+    
+}
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+.margin{
+    margin:20px;   
+}
+.mformulaire{
+    margin:50px;
+}
+.pp{
+    height: 25%;
+    width: 100%;
+}
+.footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: rgb(156, 156, 226);
+    color: black;
+    text-align: center;
+    width: 100%;
+   
+    
+}
+.topnav{
+    height: 60px;
+    background-color: rgb(245, 252, 255);
+}
+#logo{
+    float:left;
+    position: relative;
+    margin: -20px;
+    padding: 1px;
+    height: 100px;
+    width: 100px;
+
+}
+h1{
+    color: mediumblue;
+    text-align: center;
+    font-family:cursive;
+    font-style: italic;
+    font-size:xx-large;
+    margin-top: 20px;
+    padding-top: 20 px;
+}
+.Others{
+    margin-top: 0px;
+}
+#img2{
+    height: 200px;
+    width: 340px;
+}
+#map{
+    
+  float:right;
+
+  width: 400px;
+  height: 400px;
+}
+.p-3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+  
+
+}
+#yahoo{
+    background-color: blueviolet;
+}
+.btn-label {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: rgba(0,0,0,0.15);border-radius: 3px 0 0 3px;}
+.btn-labeled {padding-top: 0;padding-bottom: 0;}
+.btn { margin-bottom: 10px; }
